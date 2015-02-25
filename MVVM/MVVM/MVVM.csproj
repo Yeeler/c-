@@ -57,6 +57,7 @@
     </ApplicationDefinition>
     <Compile Include="DataAccess\DeviceRepository.cs" />
     <Compile Include="ViewModel\DeviceViewModel.cs" />
+    <Compile Include="ViewModel\ViewModelBase.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
